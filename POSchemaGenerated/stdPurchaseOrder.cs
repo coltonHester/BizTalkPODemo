@@ -1,4 +1,4 @@
-namespace POSchemaGenerated.PartnerPOSchema {
+namespace POSchemaGeneratedPartnerPOSchema {
     using Microsoft.XLANGs.BaseTypes;
     
     
@@ -7,7 +7,7 @@ namespace POSchemaGenerated.PartnerPOSchema {
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [SchemaType(SchemaTypeEnum.Document)]
     [Schema(@"POSchemaGeneratedPartnerPOSchema",@"purchaseOrder")]
-    [Microsoft.XLANGs.BaseTypes.PropertyAttribute(typeof(global::POSchemaGenerated.PropertySchema.TotalPOAmount), XPath = @"/*[local-name()='purchaseOrder' and namespace-uri()='POSchemaGeneratedPartnerPOSchema']/@*[local-name()='TotalPOAmount' and namespace-uri()='']", XsdType = @"string")]
+    [Microsoft.XLANGs.BaseTypes.PropertyAttribute(typeof(global::POSchemaGenerated.PropertySchema.TotalPOAmount), XPath = @"/*[local-name()='purchaseOrder' and namespace-uri()='POSchemaGeneratedPartnerPOSchema']/@*[local-name()='TotalPOAmount' and namespace-uri()='']", XsdType = @"decimal")]
     [Microsoft.XLANGs.BaseTypes.PropertyAttribute(typeof(global::POSchemaGenerated.PropertySchema.CustomerNumber), XPath = @"/*[local-name()='purchaseOrder' and namespace-uri()='POSchemaGeneratedPartnerPOSchema']/@*[local-name()='CustomerNumber' and namespace-uri()='']", XsdType = @"string")]
     [System.SerializableAttribute()]
     [SchemaRoots(new string[] {@"purchaseOrder"})]
@@ -49,6 +49,8 @@ namespace POSchemaGenerated.PartnerPOSchema {
       <xsd:element name=""items"" type=""Items"" />
     </xsd:sequence>
     <xsd:attribute name=""orderDate"" type=""xsd:date"" />
+    <xsd:attribute name=""TotalPOAmount"" type=""xsd:decimal"" />
+    <xsd:attribute name=""CustomerNumber"" type=""xsd:string"" />
   </xsd:complexType>
   <xsd:complexType name=""USAddress"">
     <xsd:sequence>

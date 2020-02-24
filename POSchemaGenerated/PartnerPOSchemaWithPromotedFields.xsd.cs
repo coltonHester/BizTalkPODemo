@@ -12,7 +12,7 @@ namespace POSchemaGenerated.PartnerPOSchemaPF {
     [System.SerializableAttribute()]
     [SchemaRoots(new string[] {@"purchaseOrder"})]
     [Microsoft.XLANGs.BaseTypes.SchemaReference(@"POSchemaGenerated.PropertySchema.PropertySchema", typeof(global::POSchemaGenerated.PropertySchema.PropertySchema))]
-    public sealed class PartnerPOSchema : Microsoft.XLANGs.BaseTypes.SchemaBase {
+    public sealed class PartnerPOSchemaWithPF : Microsoft.XLANGs.BaseTypes.SchemaBase {
         
         [System.NonSerializedAttribute()]
         private static object _rawSchema;
@@ -91,7 +91,7 @@ namespace POSchemaGenerated.PartnerPOSchemaPF {
   </xsd:simpleType>
 </xsd:schema>";
         
-        public PartnerPOSchema() {
+        public PartnerPOSchemaWithPF() {
         }
         
         public override string XmlContent {

@@ -74,7 +74,7 @@
   </ItemGroup>
   <ItemGroup>
     <Schema Include="PartnerPOSchemaWithPromotedFields.xsd">
-      <TypeName>PartnerPOSchema</TypeName>
+      <TypeName>PartnerPOSchemaWithPF</TypeName>
       <Namespace>POSchemaGenerated.PartnerPOSchemaPF</Namespace>
       <SubType>Task</SubType>
     </Schema>
@@ -82,8 +82,13 @@
   <ItemGroup>
     <Schema Include="PartnerPOSchema.xsd">
       <SubType>Task</SubType>
-      <TypeName>PartnerPOSchemaWithPromotedFields_Copy</TypeName>
+      <TypeName>PartnerPOSchema</TypeName>
       <Namespace>POSchemaGenerated.PartnerPOSchema</Namespace>
+    </Schema>
+    <Schema Include="stdPurchaseOrder.xsd">
+      <SubType>Task</SubType>
+      <TypeName>stdPurchaseOrder</TypeName>
+      <Namespace>POSchemaGenerated</Namespace>
     </Schema>
     <None Include="POSchemaGeneratedKey.snk" />
     <Schema Include="PropertySchema.xsd">

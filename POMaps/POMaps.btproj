@@ -81,6 +81,13 @@
   <ItemGroup>
     <None Include="POMapsKey.snk" />
   </ItemGroup>
+  <ItemGroup>
+    <Map Include="MapPartnerPO.btm">
+      <TypeName>MapPartnerPO</TypeName>
+      <Namespace>POMaps</Namespace>
+      <SubType>Task</SubType>
+    </Map>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\BizTalk\BizTalkC.targets" />
 </Project>
