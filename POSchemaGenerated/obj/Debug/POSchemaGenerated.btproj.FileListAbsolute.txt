@@ -1,0 +1,12 @@
+C:\Users\ColtonHester\Documents\VisualStudio2015\Projects\PODemo\POSchemaGenerated\bin\Debug\POSchemaGenerated.dll
+C:\Users\ColtonHester\Documents\VisualStudio2015\Projects\PODemo\POSchemaGenerated\bin\Debug\POSchemaGenerated.pdb
+C:\Users\ColtonHester\Documents\VisualStudio2015\Projects\PODemo\POSchemaGenerated\obj\Debug\POSchemaGenerated.dll
+C:\Users\ColtonHester\Documents\VisualStudio2015\Projects\PODemo\POSchemaGenerated\obj\Debug\POSchemaGenerated.pdb
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\PODemo\POSchemaGenerated\bin\Debug\POSchemaGenerated.dll
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\PODemo\POSchemaGenerated\bin\Debug\POSchemaGenerated.pdb
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\PODemo\POSchemaGenerated\obj\Debug\POSchemaGenerated.dll
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\PODemo\POSchemaGenerated\obj\Debug\POSchemaGenerated.pdb
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\BizTalkPODemo\POSchemaGenerated\bin\Debug\POSchemaGenerated.dll
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\BizTalkPODemo\POSchemaGenerated\bin\Debug\POSchemaGenerated.pdb
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\BizTalkPODemo\POSchemaGenerated\obj\Debug\POSchemaGenerated.dll
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\BizTalkPODemo\POSchemaGenerated\obj\Debug\POSchemaGenerated.pdb

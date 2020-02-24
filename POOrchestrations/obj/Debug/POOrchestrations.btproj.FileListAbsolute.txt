@@ -1,0 +1,14 @@
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\PODemo\POOrchestrations\bin\Debug\POOrchestrations.dll
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\PODemo\POOrchestrations\bin\Debug\POOrchestrations.pdb
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\PODemo\POOrchestrations\bin\Debug\POMaps.dll
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\PODemo\POOrchestrations\bin\Debug\POSchemaGenerated.dll
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\PODemo\POOrchestrations\bin\Debug\POSchemas.dll
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\PODemo\POOrchestrations\obj\Debug\POOrchestrations.dll
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\PODemo\POOrchestrations\obj\Debug\POOrchestrations.pdb
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\BizTalkPODemo\POOrchestrations\bin\Debug\POOrchestrations.dll
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\BizTalkPODemo\POOrchestrations\bin\Debug\POOrchestrations.pdb
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\BizTalkPODemo\POOrchestrations\bin\Debug\POMaps.dll
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\BizTalkPODemo\POOrchestrations\bin\Debug\POSchemaGenerated.dll
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\BizTalkPODemo\POOrchestrations\bin\Debug\POSchemas.dll
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\BizTalkPODemo\POOrchestrations\obj\Debug\POOrchestrations.dll
+C:\Users\ColtonHester\Documents\Visual Studio 2015\Projects\BizTalkPODemo\POOrchestrations\obj\Debug\POOrchestrations.pdb
