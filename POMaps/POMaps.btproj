@@ -73,6 +73,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\POSchemaGenerated\POSchemaGenerated.btproj">
+      <Project>{a2a175e1-401b-4996-a327-9f9c4617293f}</Project>
+      <Name>POSchemaGenerated</Name>
+    </ProjectReference>
     <ProjectReference Include="..\POSchemas\POSchemas.btproj">
       <Project>{78ee38e4-da64-42ce-b96a-3ef5e32c4444}</Project>
       <Name>POSchemas</Name>
@@ -82,8 +86,8 @@
     <None Include="POMapsKey.snk" />
   </ItemGroup>
   <ItemGroup>
-    <Map Include="MapPartnerPO.btm">
-      <TypeName>MapPartnerPO</TypeName>
+    <Map Include="PartnerPOMap.btm">
+      <TypeName>PartnerPOMap</TypeName>
       <Namespace>POMaps</Namespace>
       <SubType>Task</SubType>
     </Map>
